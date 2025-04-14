@@ -1,4 +1,4 @@
-# Alejandro Jimenez - Data Analyst Portfolio
+# Alejandro Jimenez - Data Science Portfolio
 A portfolio of data analysis projects implemented using Python.
 
 ## Exploratory Data Analysis
